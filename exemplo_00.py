@@ -1,1 +1,6 @@
 print("Hello world")
+print(3 +4)
+print("Olá" + " " + "turma!")
+print("Olá, " + input("Digite seu nome: ") + "!")
+print("Vamos descobrir o número de caracteres do seu nome:")
+print("Seu nome tem, " + str(len(input("Digite seu nome: "))) + " caracteres")
